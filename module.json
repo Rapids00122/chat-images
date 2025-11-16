@@ -12,10 +12,10 @@
     }
   ],
   "esmodules": [
-    "chat-images.js"
+    "dist/chat-images.js"
   ],
   "styles": [
-    "chat-images.css"
+    "dist/chat-images.css"
   ],
   "compatibility": {
     "minimum": "10",
