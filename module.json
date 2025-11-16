@@ -1,14 +1,14 @@
 {
-  "id": "chat-images",
-  "name": "chat-images",
-  "title": "Chat Images",
+  "id": "chat-images-dreamteam-dev",
+  "name": "chat-images-dreamteam-dev",
+  "title": "Chat Images DreamTeam (Dev)",
   "description": "Extends chat functionality with image support.",
-  "version": "3.3",
-  "author": "bmarian",
+  "version": "3.3.1",
+  "author": "Rapids00122",
   "authors": [
     {
-      "name": "bmarian",
-      "url": "https://github.com/bmarian"
+      "name": "Rapids00122",
+      "url": "https://github.com/Rapids00122"
     }
   ],
   "esmodules": [
@@ -28,8 +28,8 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "https://github.com/bmarian/chat-images",
-  "manifest": "https://github.com/bmarian/chat-images/releases/latest/download/module.json",
-  "download": "https://github.com/bmarian/chat-images/releases/download/3.3/module.zip",
-  "changelog": "https://github.com/bmarian/chat-images/releases"
+  "url": "https://github.com/Rapids00122/chat-images-dreamteam/tree/dev",
+  "manifest": "https://raw.githubusercontent.com/Rapids00122/chat-images-dreamteam/refs/heads/dev/module.json",
+  "download": "https://github.com/Rapids00122/chat-images-dreamteam/archive/refs/heads/dev.zip",
+  "changelog": "https://github.com/Rapids00122/chat-images"
 }
